@@ -1,7 +1,7 @@
 # DaggerfallPlaytimeCalculator
 A simple script to approximate your Daggerfall Unity Playtime using savefiles.
 # Usage
-1. Go to eloibonneville.com/DaggerfallPlaytimeCalculator/index.html
+1. Go to [my website](http://eloibonneville.com/DaggerfallPlaytimeCalculator/index.html)
 2. Upload your "Saves" directory
 3. The script will calculate the lower bound of your total playtime.
 # How it works
