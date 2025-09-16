@@ -2,8 +2,9 @@
 A simple script to approximate your Daggerfall Unity Playtime using savefiles.
 # Usage
 1. Go to [my website](http://eloibonneville.com/DaggerfallPlaytimeCalculator/index.html)
-2. Upload your "Saves" directory
-3. The script will calculate the lower bound of your total playtime.
+2. Launch the app
+3. Upload your "Saves" directory
+4. The script will calculate the lower bound of your total playtime.
 # How it works
 - Uses the .net times that Daggerfall Unity stores in each savefile
 - Calculates the interval of time between each savefile
